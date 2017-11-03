@@ -5,7 +5,7 @@ import java.util.Scanner;
  * @author Chan Chi Yin 
  * Student ID: 55246734
  * Lab Section ID: LA2 
- * test
+ * test test
  */
 public class ChangeMaker {
     public static void main(String[] args) {
